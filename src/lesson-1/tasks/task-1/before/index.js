@@ -1,5 +1,8 @@
-import func from '../after';
 
-func(10, 1000, function(item) {
+import {second} from '../after';
+
+second (8, 500, function(item) {
     return item * 2;
 });
+
+
