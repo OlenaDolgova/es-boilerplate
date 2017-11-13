@@ -1,1 +1,3 @@
-import task from './task-2/before';
+// import task from './task-2/before';
+
+var dayName = fun
