@@ -1,4 +1,4 @@
-import sum from '../after';
+import {sum} from '../after';
 
 const f = sum();
 
