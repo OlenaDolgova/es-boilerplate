@@ -1,3 +1,4 @@
+'use strict'
 import { tag } from '../after';
 
 const salary = {

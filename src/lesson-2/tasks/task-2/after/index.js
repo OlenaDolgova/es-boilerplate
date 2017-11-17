@@ -1,4 +1,4 @@
-
+'use strict'
 export {tag}  ;
 
 function tag(literals, ...substitutions) {
