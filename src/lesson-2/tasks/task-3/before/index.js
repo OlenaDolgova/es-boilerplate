@@ -1,3 +1,4 @@
+'use strict'
 import { format } from '../after';
 
 const func = '😃';
