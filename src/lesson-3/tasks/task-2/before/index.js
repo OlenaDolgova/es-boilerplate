@@ -1,3 +1,4 @@
+'use strict';
 import {
     addEntity as add,
     getEntities,

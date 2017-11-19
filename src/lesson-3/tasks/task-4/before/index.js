@@ -1,3 +1,4 @@
+'use strict';
 import {Timer} from '../after';
 
 const timer = Timer();
