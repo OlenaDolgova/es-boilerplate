@@ -15,7 +15,7 @@ import Entity from '../after/entityManager';
 const man = new Entity({
     id: 0,
     firstName: 'Tomas',
-    lastName: 'Anderson',
+    surName: 'Anderson',
     age: 21,
     sex: 'male'
 });
@@ -24,7 +24,7 @@ const man = new Entity({
 const woman = new Entity({
     id: 1,
     firstName: 'Lisa',
-    lastName: 'Black',
+    surName: 'Black',
     age: 19,
     sex: 'female'
 });
