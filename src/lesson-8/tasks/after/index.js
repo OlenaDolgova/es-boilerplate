@@ -14,6 +14,7 @@ Temperature.prototype[Symbol.toPrimitive] = function(item) {
     }
 };
 
+
 const freezing = new Temperature(32);
 
 console.log(freezing + '!'); // 32 degrees!
