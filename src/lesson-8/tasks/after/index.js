@@ -3,7 +3,6 @@
 function Temperature(degrees) {
     this.degrees = degrees;
 }
-
 Temperature.prototype[Symbol.toPrimitive] = function(item) {
     switch (item) {
         case 'string':
